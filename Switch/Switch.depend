@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578653401 source:c:\users\willi\documents\programacion\programacion-estructurada\switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
