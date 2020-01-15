@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578995173 source:c:\users\willi\documents\programacion\programacion-estructurada\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
